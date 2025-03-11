@@ -45,19 +45,6 @@
 
 ---
 
-## 🌟 **GitHub Activity**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xeazhar&theme=radical" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🎯 **Projects**
-- 🔹 [Project 1](https://github.com/Xeazhar/project1) - Brief description of your project  
-- 🔹 [Project 2](https://github.com/Xeazhar/project2) - Brief description of your project  
-- 🔹 [Project 3](https://github.com/Xeazhar/project3) - Brief description of your project  
-
----
 
 ## 📫 **Let's Connect!**
 <p align="center">
@@ -72,13 +59,3 @@
   </a>
 </p>
 
----
-
-### 🔥 **Fun Bonus**
-<p align="center">
-  <img src="https://github.com/Xeazhar/Xeazhar/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
-🔹 **Feel free to contribute, fork, or reach out!** 🚀  
